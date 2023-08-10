@@ -5,7 +5,7 @@ import TypeFormStep1 from '../components/TypeFormStep1'
 const page = () => {
   return (
     <div>
-            <TypeFormStep1/>
+          <TypeFormStep1/>
     </div>
   )
 }

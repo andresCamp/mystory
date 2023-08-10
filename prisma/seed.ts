@@ -10,7 +10,8 @@ async function main() {
     update: {}, /* if hashing not functioning update: {password}, */
     create: {
       email: 'test@test.com',
-      name: 'Test User',
+      firstName: 'Test',
+      lastName: 'User',
       password
     }
   })
